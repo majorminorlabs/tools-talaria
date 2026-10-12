@@ -97,8 +97,7 @@ are recorded in ignored local receipt/audit output. Build metadata explicitly re
 physical validation as NOT_PERFORMED. Public readiness means readiness to publish the
 disclosed unsigned prerelease, not proof of a physical new-user signing workflow.
 
-See [the handoff](PUBLIC_RELEASE_HANDOFF.md) for the exact proposed publication and
-owner decisions. No publication authorization is inferred from completion of tests.
+No publication authorization is inferred from completion of tests.
 
 ## v0.2.1 verification (2026-10-09)
 

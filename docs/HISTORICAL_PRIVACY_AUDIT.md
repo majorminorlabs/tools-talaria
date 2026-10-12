@@ -85,5 +85,5 @@ Research Terminal patch. Detailed commit-to-blob/path mappings are retained loca
 Create an independent Git repository by exporting the final tracked release tree,
 then `git init` and a neutral-author root commit. Do not clone, share an object store,
 copy `.git`, copy reflogs, merge old branches, or rewrite this private repository.
-The original refs and object database remain intact. See
-[public release handoff](PUBLIC_RELEASE_HANDOFF.md) for parity and final scans.
+The original refs and object database remain intact. Final public-release checks are
+recorded in [PUBLIC_RELEASE_VERIFICATION.md](PUBLIC_RELEASE_VERIFICATION.md).

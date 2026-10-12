@@ -245,7 +245,7 @@ preservation/message observations are recorded below. The prior manual re-import
 workaround remains the only verified maintenance path for this exact identity.
 At that earlier milestone, normal-refresh acceptance and public-Git privacy
 remained unresolved. Both are addressed by the later patched-SideStore validation
-and [public release handoff](PUBLIC_RELEASE_HANDOFF.md).
+and the current [release readiness](RELEASE_READINESS.md).
 
 
 Final follow-up checks at 10:16–10:18: device inventory and launch confirmed
